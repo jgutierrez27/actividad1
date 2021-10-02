@@ -13,18 +13,18 @@ main .uno {
     background-color: pink;
 }
 main :nth-child(2){
-    background-color: rgb(39, 120, 173);
+    background-color: lightcoral;
 }
 main :nth-child(3){
     background-color: white;
 }
 main :nth-child(4){
-    background-color: orangered;
+    background-color: blueviolet;
 }
 main :nth-child(5){
-    background-color: peru;
+    background-color: palevioletred;
     color: black;
 }
 main :nth-child(6){
-    background-color: pink;
+    background-color: purple;
 }
