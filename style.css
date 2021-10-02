@@ -1,0 +1,30 @@
+main{
+    display: flex;
+flex-wrap: wrap;
+} 
+
+main div{
+    width: 500;
+    height: 300;
+    color: aquamarine;
+
+}
+main .uno { 
+    background-color: pink;
+}
+main :nth-child(2){
+    background-color: rgb(39, 120, 173);
+}
+main :nth-child(3){
+    background-color: white;
+}
+main :nth-child(4){
+    background-color: orangered;
+}
+main :nth-child(5){
+    background-color: peru;
+    color: black;
+}
+main :nth-child(6){
+    background-color: pink;
+}
